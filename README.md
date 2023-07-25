@@ -1,1 +1,1 @@
-# cryptomines-executionscript
+# cryptomines-execution-script
