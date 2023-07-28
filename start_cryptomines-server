@@ -1,0 +1,4 @@
+#!/bin/bash
+#
+su ubuntu -c "nohup start_cryptomines-blockchain >/dev/null 2>&1 &"
+su ubuntu -c "nohup start_cryptomines-execution-client_mainnet >/dev/null 2>&1 &"

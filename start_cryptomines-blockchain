@@ -1,0 +1,5 @@
+#!/bin/bash
+#
+cd /home/ubuntu/cryptomines-blockchain
+. ./activate
+cryptomines start node
