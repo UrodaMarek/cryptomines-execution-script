@@ -14,7 +14,7 @@ After=syslog.target network-online.target
 
 Type=simple
 
-ExecStart=/usr/local/bin/start_cryptomines-server
+ExecStart=/usr/bin/start_cryptomines-server
 
 Restart=on-failure
 
